@@ -1,0 +1,5 @@
+[project]
+name = "garycli"
+version = "0.1.0"
+description = "AI-native embedded engineering agent — from natural-language requirements to code, build, flash, runtime validation, diagnosis and repair."
+requires-python = ">=3.10"
