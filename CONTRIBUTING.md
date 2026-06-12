@@ -20,3 +20,4 @@ Notes and usage details for garycli.
 - add a note about the defaults
 - link the usage section
 - fix a small wording issue
+- fix a small wording issue
